@@ -12,7 +12,7 @@ const Banner = () => {
         <div className='text-[20px] md:text-[50px] md:p-[20px] text-white'>
 
           Learn
-          <Typed className='pl-3' strings={[' systummmmmmmm' ,' web development']} 
+          <Typed className='pl-3' strings={[' React development ' ,' web development']} 
           typeSpeed={100} 
           loop={true}
           backSpeed={100}
